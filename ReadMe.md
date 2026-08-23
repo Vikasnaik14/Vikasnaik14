@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on fullstack web development (MERN Stack)<br>and also exploring artificial intelligence tools. <br>I'm looking to collaborate on full stack web development or<br>backend development projects using java and springboot.<br>
+I'm currently working on fullstack web development (MERN Stack)<br>and also exploring artificial intelligence tools. <br>I'm looking to collaborate on full stack web development or<br>backend development projects using node and javscript.<br>
 
 
 ## 🌐 Socials:
